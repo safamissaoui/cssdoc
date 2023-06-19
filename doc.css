@@ -1,0 +1,9 @@
+nav { font-size: medium;
+     justify-content: center ;
+      align-items: center;
+display: flex;
+justify-content: space-between;
+    background-color: bisque ;
+}
+#nevada {font-size: large; color: black;  font-family: Georgia, 'Times New Roman', Times, serif;  } 
+h1 {align-content: center;}
